@@ -5,7 +5,7 @@ Make sure that your code of the bonus exercise and of the first regular homework
 
 ## Finding Prime Numbers
 
-Your task for this exercise is to provide two functions, namely the function `is_prime` and the function `find_prime`. The first of those is supposed to take any natural number and return `True` if it is a prime number, and `False` otherwise. `find_prime(7)` for example is supposed to return `True.`
+Your task for this exercise is to provide two functions, namely the function `is_prime` and the function `find_prime`. The first of those is supposed to take any natural number and return `True` if it is a prime number, and `False` otherwise. `is_prime(7)` for example is supposed to return `True.`
 
 The `find_prime` method is supposed to find the n<sup>th</sup> prime number there is - which means `find_prime(1)` is supposed to return the first prime number there is, namely 2. The first six prime numbers being 2,3,5,7,11 and 13, `find_prime(6)` is supposed to return `13`.
 
